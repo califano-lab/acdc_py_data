@@ -1,6 +1,6 @@
 # acdc_py_data
 
-This repository contains scRNAseq of sample TE001 from Malagola et al.
+This repository contains scRNAseq, network and UMAP of sample TE001 from Malagola et al. for the purposes of the ACDC following [Jupyter notebook](https://github.com/califano-lab/acdc_py/blob/main/Tutorials/ACDC_ICS_Jupyter_Notebook_Tutorial.ipynb).
 
 # References
 
